@@ -11,6 +11,7 @@ composer global require loganhenson/tlint
 ```
 > If you have other globally installed core laravel files you may need to update them to test this package.
 > - laravel/valet
+> - psy/psysh
 
 ## Usage
 For entire project (you must pass the lint command to use other options)
